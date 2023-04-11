@@ -1,6 +1,6 @@
 # Flask-Elastic-Beanstalk 
 
-first I forked the project and elimanete the directory beanstalk, then I continue to configure 9Cloud.
+first I forked the project and elimanated the directory beanstalk, then I continue to configure 9Cloud and configure EB.
 
 For better quality:
 https://youtu.be/PX3oXKs_txs
